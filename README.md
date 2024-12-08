@@ -45,7 +45,8 @@ plt.show()
 
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/d80f4733-831b-43a3-982e-8a87b2df1f95)
+
+![Screenshot 2024-12-08 175046](https://github.com/user-attachments/assets/6f70e722-adff-42b8-b099-74101f0c6f50)
 
 
 ## Result
